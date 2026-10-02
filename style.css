@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #A8B88A;
+    color: #FDF5E6;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -67,7 +67,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #A8B88A;
+    border: 1px solid #FDF5E6;
     border-radius: 8px;
     padding: 12px;
     background-color: #FDF5E6;
@@ -112,7 +112,7 @@ blockquote {
 /* ===== Rodapé ===== */
 .rodape {
     background-color: #D9A6A6;
-    color: #A8B88A;
+    color: #FDF5E6;
     text-align: center;
     padding: 16px;
     margin-top: 24px;
