@@ -12,13 +12,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #FDF5E6;             /* marrom escuro (texto) */
-    background-color: #FDF5E6;  /* creme (fundo) */
+    color: #D9A6A6;             /* marrom escuro (texto) */
+    background-color: #D9A6A6;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #FDF5E6;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #D9A6A6 ;  /* âmbar escuro — texto branco tem contraste AA */
     color: #D9A6A6;
     text-align: center;
     padding: 24px 16px;
