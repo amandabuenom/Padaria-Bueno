@@ -13,12 +13,12 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #D9A6A6;             /* marrom escuro (texto) */
-    background-color: #D9A6A6;  /* creme (fundo) */
+    background-color: #F8F5F0  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #D9A6A6 ;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #F8F5F0 ;  /* âmbar escuro — texto branco tem contraste AA */
     color: #D9A6A6;
     text-align: center;
     padding: 24px 16px;
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #D9A6A6;
+    color: #F8F5F0;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #D9A6A6;
+    border-left: 4px solid #F8F5F0;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #D9A6A6;
@@ -111,7 +111,7 @@ blockquote {
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #D9A6A6;
+    background-color: #F8F5F0;
     color: #D9A6A6;
     text-align: center;
     padding: 16px;
